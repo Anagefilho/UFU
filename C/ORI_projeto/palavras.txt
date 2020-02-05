@@ -1,0 +1,73 @@
+Palavra: acontecimento - doc: 4 - freq: 1    
+Palavra: agrava - doc: 2 - freq: 1    
+Palavra: alertou - doc: 3 - freq: 1    
+Palavra: aluno - doc: 3 - freq: 2    
+Palavra: aproveito - doc: 5 - freq: 1    
+Palavra: baixo - doc: 1 - freq: 1    doc: 5 - freq: 1    
+Palavra: bonus - doc: 4 - freq: 1    
+Palavra: caes - doc: 1 - freq: 1    
+Palavra: campi - doc: 3 - freq: 1    
+Palavra: campus - doc: 3 - freq: 1    
+Palavra: caso - doc: 2 - freq: 1    
+Palavra: castigado - doc: 1 - freq: 1    
+Palavra: cima - doc: 1 - freq: 1    doc: 5 - freq: 1    
+Palavra: conversando - doc: 4 - freq: 1    
+Palavra: criatura - doc: 1 - freq: 1    doc: 1 - freq: 1    
+Palavra: cruzar - doc: 1 - freq: 1    
+Palavra: descalibrado - doc: 3 - freq: 1    
+Palavra: deus - doc: 1 - freq: 1    
+Palavra: diagnosticou - doc: 2 - freq: 1    
+Palavra: dias - doc: 3 - freq: 1    
+Palavra: dor - doc: 2 - freq: 1    
+Palavra: doutor - doc: 2 - freq: 2    doc: 3 - freq: 2    
+Palavra: engenharia - doc: 3 - freq: 1    
+Palavra: excecao - doc: 5 - freq: 1    
+Palavra: florestal - doc: 3 - freq: 1    
+Palavra: gato - doc: 1 - freq: 3    
+Palavra: gatos - doc: 1 - freq: 1    
+Palavra: gerente - doc: 4 - freq: 1    
+Palavra: gosto - doc: 1 - freq: 1    
+Palavra: guincho - doc: 5 - freq: 1    
+Palavra: hoje - doc: 3 - freq: 1    
+Palavra: homem - doc: 1 - freq: 2    doc: 4 - freq: 1    doc: 5 - freq: 1    
+Palavra: igual - doc: 1 - freq: 2    
+Palavra: lamentou - doc: 4 - freq: 1    
+Palavra: melhoraria - doc: 1 - freq: 1    
+Palavra: menino - doc: 2 - freq: 1    
+Palavra: monitor - doc: 2 - freq: 2    
+Palavra: monitores - doc: 3 - freq: 1    
+Palavra: mulher - doc: 5 - freq: 1    
+Palavra: oculos - doc: 4 - freq: 1    
+Palavra: olham - doc: 1 - freq: 3    
+Palavra: olhou - doc: 5 - freq: 1    
+Palavra: onibus - doc: 4 - freq: 1    
+Palavra: parte - doc: 3 - freq: 1    
+Palavra: passageiro - doc: 4 - freq: 1    
+Palavra: passam - doc: 3 - freq: 1    
+Palavra: passou - doc: 4 - freq: 1    
+Palavra: pe - doc: 2 - freq: 1    
+Palavra: pedindo - doc: 4 - freq: 1    
+Palavra: pioraria - doc: 1 - freq: 1    
+Palavra: pires - doc: 4 - freq: 1    
+Palavra: porco - doc: 1 - freq: 2    doc: 5 - freq: 1    
+Palavra: possivel - doc: 1 - freq: 1    
+Palavra: presidenta - doc: 4 - freq: 1    
+Palavra: presidente - doc: 3 - freq: 1    
+Palavra: professor - doc: 3 - freq: 1    
+Palavra: professores - doc: 3 - freq: 1    
+Palavra: proibiu - doc: 2 - freq: 1    
+Palavra: recomendou - doc: 2 - freq: 1    
+Palavra: saia - doc: 2 - freq: 1    
+Palavra: sensor - doc: 3 - freq: 1    
+Palavra: ser - doc: 1 - freq: 1    
+Palavra: tecnicas - doc: 3 - freq: 1    
+Palavra: tecnico - doc: 3 - freq: 1    
+Palavra: tenis - doc: 2 - freq: 1    doc: 4 - freq: 1    
+Palavra: transtornado - doc: 2 - freq: 1    
+Palavra: ufu - doc: 3 - freq: 1    
+Palavra: usando - doc: 4 - freq: 1    
+Palavra: usar - doc: 3 - freq: 1    
+Palavra: uso - doc: 2 - freq: 2    
+Palavra: verificando - doc: 5 - freq: 1    
+Palavra: vestido - doc: 5 - freq: 1    
+Contador de palavras: 72
